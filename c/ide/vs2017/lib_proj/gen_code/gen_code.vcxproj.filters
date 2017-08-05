@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{c87cb577-3320-4ae9-bbce-91abd038be07}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="src\tools">
+      <UniqueIdentifier>{ffc646f0-6c08-40a6-98c2-93591046798a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\tools\gen_code">
+      <UniqueIdentifier>{e31d21e9-d360-483e-8026-d9a1a9cbbc53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ta_abstract">
+      <UniqueIdentifier>{943c205d-b8ee-4590-a853-1feaad257411}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src\ta_abstract\tables">
+      <UniqueIdentifier>{6e85d0c0-ad98-478e-8617-8d502c9f8651}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="include">
+      <UniqueIdentifier>{a1721de0-3193-4cd4-a1f3-174a79a2990a}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\src\tools\gen_code\gen_code.c">
+      <Filter>src\tools\gen_code</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\ta_abstract.c">
+      <Filter>src\ta_abstract</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\ta_def_ui.c">
+      <Filter>src\ta_abstract</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_a.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_b.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_c.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_d.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_e.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_f.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_g.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_h.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_i.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_j.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_k.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_l.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_m.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_n.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_o.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_p.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_q.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_r.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_s.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_t.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_u.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_v.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_w.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_x.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_y.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\src\ta_abstract\tables\table_z.c">
+      <Filter>src\ta_abstract\tables</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\src\ta_abstract\ta_def_ui.h">
+      <Filter>src\ta_abstract</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\include\ta_common.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\src\ta_common\ta_pragma.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
